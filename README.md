@@ -2,6 +2,13 @@
 
 This is the README for your extension "jira-rocket". After writing up a brief description, we recommend including the following sections.
 
+## TODO
+
+* Ask user for Email and password or auth token (https://id.atlassian.com/manage/api-tokens)
+* Store the Credentials in keychain.
+* Check if authentication is valid.
+* Fetch all the tasks for the user or decide the feature to be build :P
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
