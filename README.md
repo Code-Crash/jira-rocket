@@ -1,13 +1,18 @@
 # jira-rocket README
 
-This is the README for your extension "jira-rocket". After writing up a brief description, we recommend including the following sections.
+This exntention is to handle the your Jira account from Visual Studio code.
 
 ## TODO
 
-* Ask user for Email and password or auth token (https://id.atlassian.com/manage/api-tokens)
-* Store the Credentials in keychain.
-* Check if authentication is valid.
-* Fetch all the tasks for the user or decide the feature to be build :P
+- [x] Ask for Email/Password/URL, it also support [token](https://id.atlassian.com/manage/api-tokens).
+- [x] Authenticate credentials with Atlassian Jira Account.
+- [x] Store the Credentials in keychain (in base65 format) [Dock link](https://developer.atlassian.com/server/jira/platform/basic-authentication/)
+- [ ] User can see the issue list.
+- [ ] User can add the issue.
+- [ ] User can add/track issue estimate.
+- [ ] User can change the issue status.
+- [ ] User can comment on the issue
+- [ ] Update Read Me. :P
 
 ## Features
 
