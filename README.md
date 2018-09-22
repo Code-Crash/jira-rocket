@@ -1,6 +1,6 @@
 # jira-rocket README
 
-This exntention is to handle the your Jira account from Visual Studio code.
+This exntention is to handle your Jira account from Visual Studio code.
 
 ## TODO
 
