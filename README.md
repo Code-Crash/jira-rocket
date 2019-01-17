@@ -6,7 +6,7 @@ This exntention is to handle your Jira account from Visual Studio code.
 
 - [x] Ask for Email/Password/URL, it also support [token](https://id.atlassian.com/manage/api-tokens).
 - [x] Authenticate credentials with Atlassian Jira Account.
-- [x] Store the Credentials in keychain (in base65 format) [Dock link](https://developer.atlassian.com/server/jira/platform/basic-authentication/)
+- [x] Store the Credentials in keychain (in base64 format) [Dock link](https://developer.atlassian.com/server/jira/platform/basic-authentication/)
 - [ ] User can see the issue list.
 - [ ] User can add the issue.
 - [ ] User can add/track issue estimate.
